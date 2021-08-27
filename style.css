@@ -37,3 +37,12 @@
     border-radius: 20px;
 
 }
+
+@media screen and (max-width:768px) 
+{
+    .digital_clock
+    {
+        width:80%;
+    }
+    
+}
